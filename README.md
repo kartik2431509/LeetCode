@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/kartik2431509/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1486-xor-operation-in-an-array](https://github.com/kartik2431509/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Stack
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartik2431509/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/kartik2431509/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartik2431509/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/kartik2431509/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/kartik2431509/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/kartik2431509/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
