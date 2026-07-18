@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/kartik2431509/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kartik2431509/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/kartik2431509/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kartik2431509/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartik2431509/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kartik2431509/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
