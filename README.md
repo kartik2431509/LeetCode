@@ -22,17 +22,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kartik2431509/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartik2431509/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/kartik2431509/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0968-binary-tree-cameras](https://github.com/kartik2431509/LeetCode/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartik2431509/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartik2431509/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/kartik2431509/LeetCode/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartik2431509/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartik2431509/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/kartik2431509/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0968-binary-tree-cameras](https://github.com/kartik2431509/LeetCode/tree/master/0968-binary-tree-cameras) |
 ## Array
 |  |
 | ------- |
@@ -77,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartik2431509/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/kartik2431509/LeetCode/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
