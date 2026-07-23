@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/kartik2431509/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik2431509/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/kartik2431509/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/kartik2431509/LeetCode/tree/master/0968-binary-tree-cameras) |
+## Simulation
+|  |
+| ------- |
+| [2180-count-integers-with-even-digit-sum](https://github.com/kartik2431509/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 <!---LeetCode Topics End-->
