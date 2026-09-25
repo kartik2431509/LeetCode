@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kartik2431509/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/kartik2431509/LeetCode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/kartik2431509/LeetCode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/kartik2431509/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/kartik2431509/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik2431509/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik2431509/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartik2431509/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/kartik2431509/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/kartik2431509/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/kartik2431509/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/kartik2431509/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/kartik2431509/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartik2431509/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3731-find-missing-elements](https://github.com/kartik2431509/LeetCode/tree/master/3731-find-missing-elements) |
